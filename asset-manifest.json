@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MotkovaKateryna.github.io/goit-react-hw-04-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/MotkovaKateryna.github.io/goit-react-hw-04-feedback/static/js/main.07d3183d.js",
-    "index.html": "/MotkovaKateryna.github.io/goit-react-hw-04-feedback/index.html",
-    "main.7acaea2f.css.map": "/MotkovaKateryna.github.io/goit-react-hw-04-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/MotkovaKateryna.github.io/goit-react-hw-04-feedback/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-04-feedback/static/css/main.9b02fa2d.css",
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.9a27eda8.js",
+    "index.html": "/goit-react-hw-04-feedback/index.html",
+    "main.9b02fa2d.css.map": "/goit-react-hw-04-feedback/static/css/main.9b02fa2d.css.map",
+    "main.9a27eda8.js.map": "/goit-react-hw-04-feedback/static/js/main.9a27eda8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.9b02fa2d.css",
+    "static/js/main.9a27eda8.js"
   ]
 }
