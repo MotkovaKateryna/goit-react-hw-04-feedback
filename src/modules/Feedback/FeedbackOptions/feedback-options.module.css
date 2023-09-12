@@ -1,0 +1,17 @@
+.btn {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: aliceblue;
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: blueviolet;
+  color: white;
+}
